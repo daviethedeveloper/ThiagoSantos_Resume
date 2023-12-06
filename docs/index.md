@@ -19,7 +19,6 @@ An Accountant that has a passion for data science
 `2010-2012`
 __FAE Business College__, Brazil
 
-
 `2019-2020`
 __Ensign College__, Salt Lake City, UT
 
