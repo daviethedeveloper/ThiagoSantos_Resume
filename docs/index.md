@@ -46,22 +46,24 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 - Managed 8 Internship classes to support  Faculty coordinators from the Business department
 
 
-### Audit/ Tax Summer Intern
+## Audit/Tax Summer Intern
 
-`June 2022- August 2022`
-__Harris CPAs__, Boise, Idaho
+- **Duration:** June 2022 - August 2022
+- **Company:** Harris CPAs, Boise, Idaho
 
-- Prepare tax return for individual and organizations, using PrepTax
-- Performed accounting tasks necessary to the preparation of financial statements, engagement of audits, reviews, and compilations
-- Participated in weekly meetings, and planning meeting to set deadline and performance in auditings.
+  - Prepared tax returns for individuals and organizations using PrepTax.
+  - Executed accounting tasks essential for financial statement preparation and engagement in audits, reviews, and compilations.
+  - Participated in weekly and planning meetings to establish deadlines and performance goals for audits.
 
-### Accounting Payable - Treasury
-`November 2020 - September 2021`
-__The Church of Jesus Christ of Latter-day Saints__, Salt Lake City, Utah
+## Accounting Payable - Treasury
 
-- Controlled internal tasks like, bank deposits, 1099 report, and reimbursement
-- Created the fist Knowled Gase (KB) training to the whole department regarding Brazilian Invoices
-- Updated KB for mailing control, bank deposit, documents validation, PO'S and vendors exceptions process, Global invoices validations
+- **Duration:** November 2020 - September 2021
+- **Company:** The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah
+
+  - Managed internal tasks, including bank deposits, 1099 reports, and reimbursements.
+  - Developed the first Knowledge Base (KB) training for the entire department, focusing on Brazilian invoices.
+  - Updated KB for mailing control, bank deposits, document validation, POs, vendor exceptions process, and global invoice validations.
+
 
 
 
@@ -80,5 +82,3 @@ __Service Missionary__, Sao Paulo, Brazil
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
